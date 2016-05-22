@@ -1,0 +1,505 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="AccessContext class">
+    <HelpKINode Title="AccessContext Class" Url="html/e40631b2-ff3c-5e34-6e9d-e9ce8e42f7ac.htm" />
+    <HelpKINode Title="about AccessContext class" Url="html/e40631b2-ff3c-5e34-6e9d-e9ce8e42f7ac.htm" />
+    <HelpKINode Title="methods" Url="html/bf4b6fc5-7e63-7d53-5c53-b39223726fe6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AccessContext.Create(Of TScope) method" Url="html/10c17d6b-fec9-253e-619f-6dcc981aeb5c.htm" />
+  <HelpKINode Title="AccessContext.Create&lt;TScope&gt; method" Url="html/10c17d6b-fec9-253e-619f-6dcc981aeb5c.htm" />
+  <HelpKINode Title="AccessContextual(Of TScope, TParent, TChildContextual) class">
+    <HelpKINode Title="AccessContextual(TScope, TParent, TChildContextual) Class" Url="html/d6a8eac4-7f59-34a1-a260-bac7ae897552.htm" />
+    <HelpKINode Title="about AccessContextual(Of TScope, TParent, TChildContextual) class" Url="html/d6a8eac4-7f59-34a1-a260-bac7ae897552.htm" />
+    <HelpKINode Title="constructor" Url="html/5ee80c25-efad-5796-0648-e078f5af3fb3.htm" />
+    <HelpKINode Title="methods" Url="html/c2796975-7e73-dff0-7058-c5d341bd18d1.htm" />
+    <HelpKINode Title="properties" Url="html/39fa4b9f-956a-9937-8ef7-6862dea71176.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AccessContextual(Of TScope, TParent, TChildContextual).AccessContextual constructor" Url="html/5ee80c25-efad-5796-0648-e078f5af3fb3.htm" />
+  <HelpKINode Title="AccessContextual(Of TScope, TParent, TChildContextual).Context property" Url="html/539de157-aedf-4564-b3e6-065a8ea2cc7b.htm" />
+  <HelpKINode Title="AccessContextual(Of TScope, TParent, TChildContextual).CreateChild method" Url="html/4a13a627-cdf7-8ab9-dc96-3019244eede9.htm" />
+  <HelpKINode Title="AccessContextual(Of TScope, TParent, TChildContextual).CreateChildWithin method" Url="html/b3f86392-af57-d95b-da64-f129503b0771.htm" />
+  <HelpKINode Title="AccessContextual(Of TScope, TParent, TChildContextual).Dispose method" Url="html/becde114-f273-ea8b-a7c7-cd2f65c559f9.htm" />
+  <HelpKINode Title="AccessContextual(Of TScope, TParent, TChildContextual).Disposed property" Url="html/8fcc7c82-41e1-f631-ba29-98b870e7120f.htm" />
+  <HelpKINode Title="AccessContextual(Of TScope, TParent, TChildContextual).ThisAsTParent method" Url="html/6ef731f9-6532-ff5e-765a-6010b9a0658a.htm" />
+  <HelpKINode Title="AccessContextual&lt;TScope, TParent, TChildContextual&gt; class">
+    <HelpKINode Title="AccessContextual(TScope, TParent, TChildContextual) Class" Url="html/d6a8eac4-7f59-34a1-a260-bac7ae897552.htm" />
+    <HelpKINode Title="about AccessContextual&lt;TScope, TParent, TChildContextual&gt; class" Url="html/d6a8eac4-7f59-34a1-a260-bac7ae897552.htm" />
+    <HelpKINode Title="constructor" Url="html/5ee80c25-efad-5796-0648-e078f5af3fb3.htm" />
+    <HelpKINode Title="methods" Url="html/c2796975-7e73-dff0-7058-c5d341bd18d1.htm" />
+    <HelpKINode Title="properties" Url="html/39fa4b9f-956a-9937-8ef7-6862dea71176.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AccessContextual&lt;TScope, TParent, TChildContextual&gt;.AccessContextual constructor" Url="html/5ee80c25-efad-5796-0648-e078f5af3fb3.htm" />
+  <HelpKINode Title="AccessContextual&lt;TScope, TParent, TChildContextual&gt;.Context property" Url="html/539de157-aedf-4564-b3e6-065a8ea2cc7b.htm" />
+  <HelpKINode Title="AccessContextual&lt;TScope, TParent, TChildContextual&gt;.CreateChild method" Url="html/4a13a627-cdf7-8ab9-dc96-3019244eede9.htm" />
+  <HelpKINode Title="AccessContextual&lt;TScope, TParent, TChildContextual&gt;.CreateChildWithin method" Url="html/b3f86392-af57-d95b-da64-f129503b0771.htm" />
+  <HelpKINode Title="AccessContextual&lt;TScope, TParent, TChildContextual&gt;.Dispose method" Url="html/becde114-f273-ea8b-a7c7-cd2f65c559f9.htm" />
+  <HelpKINode Title="AccessContextual&lt;TScope, TParent, TChildContextual&gt;.Disposed property" Url="html/8fcc7c82-41e1-f631-ba29-98b870e7120f.htm" />
+  <HelpKINode Title="AccessContextual&lt;TScope, TParent, TChildContextual&gt;.ThisAsTParent method" Url="html/6ef731f9-6532-ff5e-765a-6010b9a0658a.htm" />
+  <HelpKINode Title="AccessFlow namespace" Url="html/2652ffef-e6af-3c79-b548-7671b2eb0710.htm" />
+  <HelpKINode Title="AccessFlow.AccessContext class" Url="html/e40631b2-ff3c-5e34-6e9d-e9ce8e42f7ac.htm" />
+  <HelpKINode Title="AccessFlow.AccessContextual(Of TScope, TParent, TChildContextual) class" Url="html/d6a8eac4-7f59-34a1-a260-bac7ae897552.htm" />
+  <HelpKINode Title="AccessFlow.AccessContextual&lt;TScope, TParent, TChildContextual&gt; class" Url="html/d6a8eac4-7f59-34a1-a260-bac7ae897552.htm" />
+  <HelpKINode Title="AccessFlow.AwaiterForTask class" Url="html/391c5e40-ffc3-17c2-9ad3-e7899e6173d8.htm" />
+  <HelpKINode Title="AccessFlow.BasicScopes namespace" Url="html/0e38e84c-f44b-61c5-295e-c4f867a0e45b.htm" />
+  <HelpKINode Title="AccessFlow.BasicScopes.IInfiniteIntervalScope(Of TSubScope) interface" Url="html/4dd8b097-3133-e7f6-23ad-4fb00801ce72.htm" />
+  <HelpKINode Title="AccessFlow.BasicScopes.IInfiniteIntervalScope&lt;TSubScope&gt; interface" Url="html/4dd8b097-3133-e7f6-23ad-4fb00801ce72.htm" />
+  <HelpKINode Title="AccessFlow.BasicScopes.InfiniteIntervalScope class" Url="html/b3e0d961-5e52-754d-fc1f-cf71d5170374.htm" />
+  <HelpKINode Title="AccessFlow.BasicScopes.InfiniteIntervalScopeLogic class" Url="html/6f9299a5-955b-a77f-cfff-8f775cacacaa.htm" />
+  <HelpKINode Title="AccessFlow.BasicScopes.ITupleScope(Of T0, T1) interface" Url="html/1ea006f1-54b7-f1b2-552f-bfcceb0f2441.htm" />
+  <HelpKINode Title="AccessFlow.BasicScopes.ITupleScope&lt;T0, T1&gt; interface" Url="html/1ea006f1-54b7-f1b2-552f-bfcceb0f2441.htm" />
+  <HelpKINode Title="AccessFlow.BasicScopes.ITupleScopeLogic(Of T0, T1) interface" Url="html/5f305ded-5e79-86b1-782b-88bf09600c39.htm" />
+  <HelpKINode Title="AccessFlow.BasicScopes.ITupleScopeLogic&lt;T0, T1&gt; interface" Url="html/5f305ded-5e79-86b1-782b-88bf09600c39.htm" />
+  <HelpKINode Title="AccessFlow.BasicScopes.RWScope enumeration" Url="html/854ba803-fa81-2740-64dc-963ab41aa8d8.htm" />
+  <HelpKINode Title="AccessFlow.BasicScopes.RWScopeLogic class" Url="html/8eb8738e-ae5b-5b9b-e455-b4b83a707faa.htm" />
+  <HelpKINode Title="AccessFlow.BasicScopes.TupleScope class" Url="html/8cf639f4-7976-4d8a-32a7-0a92399b5800.htm" />
+  <HelpKINode Title="AccessFlow.BasicScopes.TupleScopeLogic class" Url="html/d51d7f19-091b-ee75-108d-00840e77177a.htm" />
+  <HelpKINode Title="AccessFlow.ChildContextualCreator class" Url="html/5309685e-b5a3-73ea-44f7-11c24af53b74.htm" />
+  <HelpKINode Title="AccessFlow.ChildContextualCreatorExtensions class" Url="html/dcb82b22-6030-87ba-c1a0-8763138194b1.htm" />
+  <HelpKINode Title="AccessFlow.ConstantAwaiter class" Url="html/c81312e9-ba82-3ba0-e4ab-88e399ff506f.htm" />
+  <HelpKINode Title="AccessFlow.ConstantFuture class" Url="html/cd899bdd-0142-55f0-cf47-eae5bd49aed4.htm" />
+  <HelpKINode Title="AccessFlow.Future class" Url="html/9d381489-9fda-4121-d850-8faf5c887192.htm" />
+  <HelpKINode Title="AccessFlow.IAccessContext(Of TScope) interface" Url="html/99153de6-e37c-842a-fd7c-7a3f087c6789.htm" />
+  <HelpKINode Title="AccessFlow.IAccessContext&lt;TScope&gt; interface" Url="html/99153de6-e37c-842a-fd7c-7a3f087c6789.htm" />
+  <HelpKINode Title="AccessFlow.IAccessContextual(Of TScope, TThis, TChildContextual) interface" Url="html/c577c2c6-9a26-5a52-4994-4192c934d83e.htm" />
+  <HelpKINode Title="AccessFlow.IAccessContextual&lt;TScope, TThis, TChildContextual&gt; interface" Url="html/c577c2c6-9a26-5a52-4994-4192c934d83e.htm" />
+  <HelpKINode Title="AccessFlow.IAccessScopeLogic(Of TScope) interface" Url="html/701bed67-319f-9506-fefb-db1ef2bef457.htm" />
+  <HelpKINode Title="AccessFlow.IAccessScopeLogic&lt;TScope&gt; interface" Url="html/701bed67-319f-9506-fefb-db1ef2bef457.htm" />
+  <HelpKINode Title="AccessFlow.IAwaiter(Of T) interface" Url="html/ded5efff-d209-e32d-2424-07471a5ecda0.htm" />
+  <HelpKINode Title="AccessFlow.IAwaiter&lt;T&gt; interface" Url="html/ded5efff-d209-e32d-2424-07471a5ecda0.htm" />
+  <HelpKINode Title="AccessFlow.IChildContextualCreator(Of TScope, TChild) interface" Url="html/60690954-6242-3c7c-9969-5b2d57b670e0.htm" />
+  <HelpKINode Title="AccessFlow.IChildContextualCreator&lt;TScope, TChild&gt; interface" Url="html/60690954-6242-3c7c-9969-5b2d57b670e0.htm" />
+  <HelpKINode Title="AccessFlow.IChildContextualFactory(Of TScope, TParent, TChildContextual) interface" Url="html/bcbfbc05-ca2e-f424-27dd-8c763132a858.htm" />
+  <HelpKINode Title="AccessFlow.IChildContextualFactory&lt;TScope, TParent, TChildContextual&gt; interface" Url="html/bcbfbc05-ca2e-f424-27dd-8c763132a858.htm" />
+  <HelpKINode Title="AccessFlow.IFuture(Of T) interface" Url="html/ea6cc2fd-a5e1-377c-d7e9-f0292aa60271.htm" />
+  <HelpKINode Title="AccessFlow.IFuture&lt;T&gt; interface" Url="html/ea6cc2fd-a5e1-377c-d7e9-f0292aa60271.htm" />
+  <HelpKINode Title="AccessFlow.IReactive(Of T) interface" Url="html/ac6217af-4ed3-4741-53a6-381f6fcc7038.htm" />
+  <HelpKINode Title="AccessFlow.IReactive&lt;T&gt; interface" Url="html/ac6217af-4ed3-4741-53a6-381f6fcc7038.htm" />
+  <HelpKINode Title="AccessFlow.IResolver(Of T) interface" Url="html/f8b8d339-9644-5667-ff26-0cdedf77e6a6.htm" />
+  <HelpKINode Title="AccessFlow.IResolver&lt;T&gt; interface" Url="html/f8b8d339-9644-5667-ff26-0cdedf77e6a6.htm" />
+  <HelpKINode Title="AccessFlow.ITaskCollector interface" Url="html/b4db24f5-ee05-c391-8d05-a6a726a7fb81.htm" />
+  <HelpKINode Title="AccessFlow.LambdaSubContextualFactory class" Url="html/d8d593ea-f0c4-2292-8f80-7b567db8bfaf.htm" />
+  <HelpKINode Title="AccessFlow.Reactive class" Url="html/dfeb7424-6354-f038-82ef-48cc3cbbedeb.htm" />
+  <HelpKINode Title="AccessFlow.Resolver class" Url="html/e2daefc0-551d-5baf-620f-22169a7e25a0.htm" />
+  <HelpKINode Title="AccessFlow.TaskCollector class" Url="html/1742f567-1735-7569-77b8-89d1759a3dcd.htm" />
+  <HelpKINode Title="AccessFlow.TaskFuture class" Url="html/4d01a74e-34d0-dbda-3d7b-aa86fd8e7f53.htm" />
+  <HelpKINode Title="AccessScopeLogic property" Url="html/c911ab13-c756-bc1f-3e0e-8dd9f330cd11.htm" />
+  <HelpKINode Title="Add method" Url="html/b438846b-f71a-b6e9-06a7-a60da8eec6d9.htm" />
+  <HelpKINode Title="Adding(Of T) method" Url="html/5f5190d3-4b17-ec3f-b075-73652680d296.htm" />
+  <HelpKINode Title="Adding&lt;T&gt; method" Url="html/5f5190d3-4b17-ec3f-b075-73652680d296.htm" />
+  <HelpKINode Title="AwaiterForTask class">
+    <HelpKINode Title="AwaiterForTask Class" Url="html/391c5e40-ffc3-17c2-9ad3-e7899e6173d8.htm" />
+    <HelpKINode Title="about AwaiterForTask class" Url="html/391c5e40-ffc3-17c2-9ad3-e7899e6173d8.htm" />
+    <HelpKINode Title="methods" Url="html/e0b2efaf-2ee9-afb3-dd86-1302458c09af.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AwaiterForTask.Create(Of T) method" Url="html/6ba39855-80b7-2242-6964-c17cb21a3dc5.htm" />
+  <HelpKINode Title="AwaiterForTask.Create&lt;T&gt; method" Url="html/6ba39855-80b7-2242-6964-c17cb21a3dc5.htm" />
+  <HelpKINode Title="ChildContextualCreator class">
+    <HelpKINode Title="ChildContextualCreator Class" Url="html/5309685e-b5a3-73ea-44f7-11c24af53b74.htm" />
+    <HelpKINode Title="about ChildContextualCreator class" Url="html/5309685e-b5a3-73ea-44f7-11c24af53b74.htm" />
+    <HelpKINode Title="methods" Url="html/c0437dc9-a21a-f6d1-0519-c5efeb639dab.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ChildContextualCreator.Create(Of TScope, TParent, TChildContext) method" Url="html/374bf0ae-f903-6dde-14b0-00bfa1e58979.htm" />
+  <HelpKINode Title="ChildContextualCreator.Create&lt;TScope, TParent, TChildContext&gt; method" Url="html/374bf0ae-f903-6dde-14b0-00bfa1e58979.htm" />
+  <HelpKINode Title="ChildContextualCreatorExtensions class">
+    <HelpKINode Title="ChildContextualCreatorExtensions Class" Url="html/dcb82b22-6030-87ba-c1a0-8763138194b1.htm" />
+    <HelpKINode Title="about ChildContextualCreatorExtensions class" Url="html/dcb82b22-6030-87ba-c1a0-8763138194b1.htm" />
+    <HelpKINode Title="methods" Url="html/885b9358-32ef-9915-f218-4024d32a3da8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ChildContextualCreatorExtensions.InChild method" Url="html/4d92a3f6-9a39-9a4a-dd5d-be23b7e0fa24.htm" />
+  <HelpKINode Title="ChildContextualCreatorExtensions.InChildWithin method" Url="html/bcac3e9a-b0e2-65f6-c79d-662add832a15.htm" />
+  <HelpKINode Title="ConstantAwaiter class">
+    <HelpKINode Title="ConstantAwaiter Class" Url="html/c81312e9-ba82-3ba0-e4ab-88e399ff506f.htm" />
+    <HelpKINode Title="about ConstantAwaiter class" Url="html/c81312e9-ba82-3ba0-e4ab-88e399ff506f.htm" />
+    <HelpKINode Title="methods" Url="html/d9aeef41-b7fd-7bde-f5e5-14c5646f5b1c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ConstantAwaiter.Create(Of T) method" Url="html/156b35a9-2f94-d878-a127-a61f3a94da19.htm" />
+  <HelpKINode Title="ConstantAwaiter.Create&lt;T&gt; method" Url="html/156b35a9-2f94-d878-a127-a61f3a94da19.htm" />
+  <HelpKINode Title="ConstantFuture class">
+    <HelpKINode Title="ConstantFuture Class" Url="html/cd899bdd-0142-55f0-cf47-eae5bd49aed4.htm" />
+    <HelpKINode Title="about ConstantFuture class" Url="html/cd899bdd-0142-55f0-cf47-eae5bd49aed4.htm" />
+    <HelpKINode Title="methods" Url="html/c5868309-5c2b-7caa-375b-7579a953fdb7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ConstantFuture.ToFuture(Of T) method" Url="html/75da2860-b9ab-6ee0-2d8a-a9f65f4b627f.htm" />
+  <HelpKINode Title="ConstantFuture.ToFuture&lt;T&gt; method" Url="html/75da2860-b9ab-6ee0-2d8a-a9f65f4b627f.htm" />
+  <HelpKINode Title="Contains method" Url="html/3d4fe3b5-71d7-216c-97d7-6c51c04abdd1.htm" />
+  <HelpKINode Title="Context property">
+    <HelpKINode Title="AccessContextual(TScope, TParent, TChildContextual).Context Property " Url="html/539de157-aedf-4564-b3e6-065a8ea2cc7b.htm" />
+    <HelpKINode Title="IAccessContextual(TScope, TThis, TChildContextual).Context Property " Url="html/356ab578-7019-d12c-b16c-91f4d4f52f89.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Create method">
+    <HelpKINode Title="IChildContextualFactory(TScope, TParent, TChildContextual).Create Method " Url="html/3688d3e3-a7fc-0edc-e04c-969a10b3bb60.htm" />
+    <HelpKINode Title="TaskCollector.Create Method " Url="html/dca5c9f3-0274-8b5b-76be-4989872769d0.htm" />
+    <HelpKINode Title="TaskFuture.Create Method " Url="html/d6905ee7-9d5a-cb93-ead1-05572ca44328.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Create(Of T) method">
+    <HelpKINode Title="AwaiterForTask.Create(T) Method " Url="html/6ba39855-80b7-2242-6964-c17cb21a3dc5.htm" />
+    <HelpKINode Title="ConstantAwaiter.Create(T) Method " Url="html/156b35a9-2f94-d878-a127-a61f3a94da19.htm" />
+    <HelpKINode Title="Future.Create(T) Method " Url="html/be25f4f4-2219-2221-9cff-43360987010c.htm" />
+    <HelpKINode Title="Reactive.Create(T) Method " Url="html/e0916126-389a-4727-6198-4d1fc11d3f74.htm" />
+    <HelpKINode Title="Resolver.Create(T) Method " Url="html/8bb94a6b-8d0a-f04d-cddb-56f13facbc3e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Create(Of T0, T1) method">
+    <HelpKINode Title="TupleScope.Create(T0, T1) Method " Url="html/ad3d86f9-7bf1-ff80-c2f4-f61a37a277ff.htm" />
+    <HelpKINode Title="TupleScopeLogic.Create(T0, T1) Method " Url="html/38edbb9f-0065-e0b8-e3b5-fcb8bfb428f3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Create(Of TScope) method" Url="html/10c17d6b-fec9-253e-619f-6dcc981aeb5c.htm" />
+  <HelpKINode Title="Create(Of TScope, TParent, TChildContext) method" Url="html/374bf0ae-f903-6dde-14b0-00bfa1e58979.htm" />
+  <HelpKINode Title="Create(Of TScope, TParent, TChildContextual) method" Url="html/4bc387a1-36e0-e878-82bc-69952512f5bd.htm" />
+  <HelpKINode Title="Create(Of TSubScope) method">
+    <HelpKINode Title="InfiniteIntervalScope.Create(TSubScope) Method " Url="html/f8277138-d497-3398-32f8-e5fb34457220.htm" />
+    <HelpKINode Title="InfiniteIntervalScopeLogic.Create(TSubScope) Method " Url="html/e8679b95-8ff5-9b84-9373-6decee5d30ec.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Create&lt;T0, T1&gt; method">
+    <HelpKINode Title="TupleScope.Create(T0, T1) Method " Url="html/ad3d86f9-7bf1-ff80-c2f4-f61a37a277ff.htm" />
+    <HelpKINode Title="TupleScopeLogic.Create(T0, T1) Method " Url="html/38edbb9f-0065-e0b8-e3b5-fcb8bfb428f3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Create&lt;T&gt; method">
+    <HelpKINode Title="AwaiterForTask.Create(T) Method " Url="html/6ba39855-80b7-2242-6964-c17cb21a3dc5.htm" />
+    <HelpKINode Title="ConstantAwaiter.Create(T) Method " Url="html/156b35a9-2f94-d878-a127-a61f3a94da19.htm" />
+    <HelpKINode Title="Future.Create(T) Method " Url="html/be25f4f4-2219-2221-9cff-43360987010c.htm" />
+    <HelpKINode Title="Reactive.Create(T) Method " Url="html/e0916126-389a-4727-6198-4d1fc11d3f74.htm" />
+    <HelpKINode Title="Resolver.Create(T) Method " Url="html/8bb94a6b-8d0a-f04d-cddb-56f13facbc3e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Create&lt;TScope, TParent, TChildContext&gt; method" Url="html/374bf0ae-f903-6dde-14b0-00bfa1e58979.htm" />
+  <HelpKINode Title="Create&lt;TScope, TParent, TChildContextual&gt; method" Url="html/4bc387a1-36e0-e878-82bc-69952512f5bd.htm" />
+  <HelpKINode Title="Create&lt;TScope&gt; method" Url="html/10c17d6b-fec9-253e-619f-6dcc981aeb5c.htm" />
+  <HelpKINode Title="Create&lt;TSubScope&gt; method">
+    <HelpKINode Title="InfiniteIntervalScope.Create(TSubScope) Method " Url="html/f8277138-d497-3398-32f8-e5fb34457220.htm" />
+    <HelpKINode Title="InfiniteIntervalScopeLogic.Create(TSubScope) Method " Url="html/e8679b95-8ff5-9b84-9373-6decee5d30ec.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CreateChild method">
+    <HelpKINode Title="AccessContextual(TScope, TParent, TChildContextual).CreateChild Method " Url="html/4a13a627-cdf7-8ab9-dc96-3019244eede9.htm" />
+    <HelpKINode Title="IChildContextualCreator(TScope, TChild).CreateChild Method " Url="html/037b691f-5473-4d22-d70a-a3cf24982604.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CreateChildWithin method">
+    <HelpKINode Title="AccessContextual(TScope, TParent, TChildContextual).CreateChildWithin Method " Url="html/b3f86392-af57-d95b-da64-f129503b0771.htm" />
+    <HelpKINode Title="IChildContextualCreator(TScope, TChild).CreateChildWithin Method " Url="html/b13b138a-d288-a2fc-5fa0-d7ce342d8747.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CreateWithFuture(Of T) method" Url="html/a4ef2f24-8c89-9001-d6e1-dcaed0a54982.htm" />
+  <HelpKINode Title="CreateWithFuture&lt;T&gt; method" Url="html/a4ef2f24-8c89-9001-d6e1-dcaed0a54982.htm" />
+  <HelpKINode Title="CreateWithTcs(Of T) method" Url="html/6a005ecc-671b-bdd8-bfcb-c3eceb31448f.htm" />
+  <HelpKINode Title="CreateWithTcs&lt;T&gt; method" Url="html/6a005ecc-671b-bdd8-bfcb-c3eceb31448f.htm" />
+  <HelpKINode Title="Dispose method" Url="html/becde114-f273-ea8b-a7c7-cd2f65c559f9.htm" />
+  <HelpKINode Title="Disposed property">
+    <HelpKINode Title="AccessContextual(TScope, TParent, TChildContextual).Disposed Property " Url="html/8fcc7c82-41e1-f631-ba29-98b870e7120f.htm" />
+    <HelpKINode Title="IAccessContext(TScope).Disposed Property " Url="html/c25a3305-4593-bc66-b004-e3447a827153.htm" />
+    <HelpKINode Title="IAccessContextual(TScope, TThis, TChildContextual).Disposed Property " Url="html/55ef3453-549b-2758-b047-13c3c8df8e51.htm" />
+  </HelpKINode>
+  <HelpKINode Title="From(Of T) method" Url="html/b243ae15-b7e8-6328-b764-9bb9d9e644aa.htm" />
+  <HelpKINode Title="From&lt;T&gt; method" Url="html/b243ae15-b7e8-6328-b764-9bb9d9e644aa.htm" />
+  <HelpKINode Title="Future class">
+    <HelpKINode Title="Future Class" Url="html/9d381489-9fda-4121-d850-8faf5c887192.htm" />
+    <HelpKINode Title="about Future class" Url="html/9d381489-9fda-4121-d850-8faf5c887192.htm" />
+    <HelpKINode Title="methods" Url="html/2daed922-715e-773d-e83f-baab1a6f5523.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Future.Create(Of T) method" Url="html/be25f4f4-2219-2221-9cff-43360987010c.htm" />
+  <HelpKINode Title="Future.Create&lt;T&gt; method" Url="html/be25f4f4-2219-2221-9cff-43360987010c.htm" />
+  <HelpKINode Title="GetAwaiter method" Url="html/64a64e02-1192-1afd-96d4-2109d56d7d61.htm" />
+  <HelpKINode Title="GetResult method" Url="html/4519eed4-db97-175c-d555-3980b0511d70.htm" />
+  <HelpKINode Title="IAccessContext(Of TScope) interface">
+    <HelpKINode Title="IAccessContext(TScope) Interface" Url="html/99153de6-e37c-842a-fd7c-7a3f087c6789.htm" />
+    <HelpKINode Title="about IAccessContext(Of TScope) interface" Url="html/99153de6-e37c-842a-fd7c-7a3f087c6789.htm" />
+    <HelpKINode Title="methods" Url="html/62fc0141-b340-a9f4-431b-273c37d69578.htm" />
+    <HelpKINode Title="properties" Url="html/a3311aea-8c76-796b-2571-7f9cbf696ec6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IAccessContext(Of TScope).AccessScopeLogic property" Url="html/c911ab13-c756-bc1f-3e0e-8dd9f330cd11.htm" />
+  <HelpKINode Title="IAccessContext(Of TScope).Disposed property" Url="html/c25a3305-4593-bc66-b004-e3447a827153.htm" />
+  <HelpKINode Title="IAccessContext(Of TScope).IntersectRequiredScopeWith method" Url="html/48d1188e-bbe3-3987-3692-42d82b4a916c.htm" />
+  <HelpKINode Title="IAccessContext(Of TScope).IsActive property" Url="html/f5015fb3-b553-58ec-f38d-45c50c67845f.htm" />
+  <HelpKINode Title="IAccessContext(Of TScope).RequiredScope property" Url="html/e91d8db6-4712-a475-df06-f1109388e852.htm" />
+  <HelpKINode Title="IAccessContext(Of TScope).UntilAvailable method" Url="html/17e2ee78-7b81-1cac-6bc5-e02498ac95fd.htm" />
+  <HelpKINode Title="IAccessContext&lt;TScope&gt; interface">
+    <HelpKINode Title="IAccessContext(TScope) Interface" Url="html/99153de6-e37c-842a-fd7c-7a3f087c6789.htm" />
+    <HelpKINode Title="about IAccessContext&lt;TScope&gt; interface" Url="html/99153de6-e37c-842a-fd7c-7a3f087c6789.htm" />
+    <HelpKINode Title="methods" Url="html/62fc0141-b340-a9f4-431b-273c37d69578.htm" />
+    <HelpKINode Title="properties" Url="html/a3311aea-8c76-796b-2571-7f9cbf696ec6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IAccessContext&lt;TScope&gt;.AccessScopeLogic property" Url="html/c911ab13-c756-bc1f-3e0e-8dd9f330cd11.htm" />
+  <HelpKINode Title="IAccessContext&lt;TScope&gt;.Disposed property" Url="html/c25a3305-4593-bc66-b004-e3447a827153.htm" />
+  <HelpKINode Title="IAccessContext&lt;TScope&gt;.IntersectRequiredScopeWith method" Url="html/48d1188e-bbe3-3987-3692-42d82b4a916c.htm" />
+  <HelpKINode Title="IAccessContext&lt;TScope&gt;.IsActive property" Url="html/f5015fb3-b553-58ec-f38d-45c50c67845f.htm" />
+  <HelpKINode Title="IAccessContext&lt;TScope&gt;.RequiredScope property" Url="html/e91d8db6-4712-a475-df06-f1109388e852.htm" />
+  <HelpKINode Title="IAccessContext&lt;TScope&gt;.UntilAvailable method" Url="html/17e2ee78-7b81-1cac-6bc5-e02498ac95fd.htm" />
+  <HelpKINode Title="IAccessContextual(Of TScope, TThis, TChildContextual) interface">
+    <HelpKINode Title="IAccessContextual(TScope, TThis, TChildContextual) Interface" Url="html/c577c2c6-9a26-5a52-4994-4192c934d83e.htm" />
+    <HelpKINode Title="about IAccessContextual(Of TScope, TThis, TChildContextual) interface" Url="html/c577c2c6-9a26-5a52-4994-4192c934d83e.htm" />
+    <HelpKINode Title="methods" Url="html/c6de952c-7277-a0ad-076a-43ee2513efdb.htm" />
+    <HelpKINode Title="properties" Url="html/f557c772-4a84-315f-5a4e-82c006816e99.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IAccessContextual(Of TScope, TThis, TChildContextual).Context property" Url="html/356ab578-7019-d12c-b16c-91f4d4f52f89.htm" />
+  <HelpKINode Title="IAccessContextual(Of TScope, TThis, TChildContextual).Disposed property" Url="html/55ef3453-549b-2758-b047-13c3c8df8e51.htm" />
+  <HelpKINode Title="IAccessContextual(Of TScope, TThis, TChildContextual).ThisAsTParent method" Url="html/9e5d2df2-5748-7c49-35cb-519c3b5ddcae.htm" />
+  <HelpKINode Title="IAccessContextual&lt;TScope, TThis, TChildContextual&gt; interface">
+    <HelpKINode Title="IAccessContextual(TScope, TThis, TChildContextual) Interface" Url="html/c577c2c6-9a26-5a52-4994-4192c934d83e.htm" />
+    <HelpKINode Title="about IAccessContextual&lt;TScope, TThis, TChildContextual&gt; interface" Url="html/c577c2c6-9a26-5a52-4994-4192c934d83e.htm" />
+    <HelpKINode Title="methods" Url="html/c6de952c-7277-a0ad-076a-43ee2513efdb.htm" />
+    <HelpKINode Title="properties" Url="html/f557c772-4a84-315f-5a4e-82c006816e99.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IAccessContextual&lt;TScope, TThis, TChildContextual&gt;.Context property" Url="html/356ab578-7019-d12c-b16c-91f4d4f52f89.htm" />
+  <HelpKINode Title="IAccessContextual&lt;TScope, TThis, TChildContextual&gt;.Disposed property" Url="html/55ef3453-549b-2758-b047-13c3c8df8e51.htm" />
+  <HelpKINode Title="IAccessContextual&lt;TScope, TThis, TChildContextual&gt;.ThisAsTParent method" Url="html/9e5d2df2-5748-7c49-35cb-519c3b5ddcae.htm" />
+  <HelpKINode Title="IAccessScopeLogic(Of TScope) interface">
+    <HelpKINode Title="IAccessScopeLogic(TScope) Interface" Url="html/701bed67-319f-9506-fefb-db1ef2bef457.htm" />
+    <HelpKINode Title="about IAccessScopeLogic(Of TScope) interface" Url="html/701bed67-319f-9506-fefb-db1ef2bef457.htm" />
+    <HelpKINode Title="methods" Url="html/faccace9-14ee-b40b-c7f8-614187aa86c3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IAccessScopeLogic(Of TScope).Contains method" Url="html/3d4fe3b5-71d7-216c-97d7-6c51c04abdd1.htm" />
+  <HelpKINode Title="IAccessScopeLogic(Of TScope).Influences method" Url="html/0e1b3491-7d8c-a46b-29e0-8c61be7ddfd0.htm" />
+  <HelpKINode Title="IAccessScopeLogic(Of TScope).Intersect method" Url="html/c034725b-f10c-02a8-2104-1489dff24f85.htm" />
+  <HelpKINode Title="IAccessScopeLogic&lt;TScope&gt; interface">
+    <HelpKINode Title="IAccessScopeLogic(TScope) Interface" Url="html/701bed67-319f-9506-fefb-db1ef2bef457.htm" />
+    <HelpKINode Title="about IAccessScopeLogic&lt;TScope&gt; interface" Url="html/701bed67-319f-9506-fefb-db1ef2bef457.htm" />
+    <HelpKINode Title="methods" Url="html/faccace9-14ee-b40b-c7f8-614187aa86c3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IAccessScopeLogic&lt;TScope&gt;.Contains method" Url="html/3d4fe3b5-71d7-216c-97d7-6c51c04abdd1.htm" />
+  <HelpKINode Title="IAccessScopeLogic&lt;TScope&gt;.Influences method" Url="html/0e1b3491-7d8c-a46b-29e0-8c61be7ddfd0.htm" />
+  <HelpKINode Title="IAccessScopeLogic&lt;TScope&gt;.Intersect method" Url="html/c034725b-f10c-02a8-2104-1489dff24f85.htm" />
+  <HelpKINode Title="IAwaiter(Of T) interface">
+    <HelpKINode Title="IAwaiter(T) Interface" Url="html/ded5efff-d209-e32d-2424-07471a5ecda0.htm" />
+    <HelpKINode Title="about IAwaiter(Of T) interface" Url="html/ded5efff-d209-e32d-2424-07471a5ecda0.htm" />
+    <HelpKINode Title="methods" Url="html/a30146db-ba97-316d-59da-5f4d7592465a.htm" />
+    <HelpKINode Title="properties" Url="html/b9f99278-204c-4774-99e2-cdb7ecf3f580.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IAwaiter(Of T).GetResult method" Url="html/4519eed4-db97-175c-d555-3980b0511d70.htm" />
+  <HelpKINode Title="IAwaiter(Of T).IsCompleted property" Url="html/4637a298-2a5a-78b8-8c41-60d547ebe2b6.htm" />
+  <HelpKINode Title="IAwaiter&lt;T&gt; interface">
+    <HelpKINode Title="IAwaiter(T) Interface" Url="html/ded5efff-d209-e32d-2424-07471a5ecda0.htm" />
+    <HelpKINode Title="about IAwaiter&lt;T&gt; interface" Url="html/ded5efff-d209-e32d-2424-07471a5ecda0.htm" />
+    <HelpKINode Title="methods" Url="html/a30146db-ba97-316d-59da-5f4d7592465a.htm" />
+    <HelpKINode Title="properties" Url="html/b9f99278-204c-4774-99e2-cdb7ecf3f580.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IAwaiter&lt;T&gt;.GetResult method" Url="html/4519eed4-db97-175c-d555-3980b0511d70.htm" />
+  <HelpKINode Title="IAwaiter&lt;T&gt;.IsCompleted property" Url="html/4637a298-2a5a-78b8-8c41-60d547ebe2b6.htm" />
+  <HelpKINode Title="IChildContextualCreator(Of TScope, TChild) interface">
+    <HelpKINode Title="IChildContextualCreator(TScope, TChild) Interface" Url="html/60690954-6242-3c7c-9969-5b2d57b670e0.htm" />
+    <HelpKINode Title="about IChildContextualCreator(Of TScope, TChild) interface" Url="html/60690954-6242-3c7c-9969-5b2d57b670e0.htm" />
+    <HelpKINode Title="methods" Url="html/bbc413e7-df8a-f322-7f6a-50e7ad870db3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IChildContextualCreator(Of TScope, TChild).CreateChild method" Url="html/037b691f-5473-4d22-d70a-a3cf24982604.htm" />
+  <HelpKINode Title="IChildContextualCreator(Of TScope, TChild).CreateChildWithin method" Url="html/b13b138a-d288-a2fc-5fa0-d7ce342d8747.htm" />
+  <HelpKINode Title="IChildContextualCreator&lt;TScope, TChild&gt; interface">
+    <HelpKINode Title="IChildContextualCreator(TScope, TChild) Interface" Url="html/60690954-6242-3c7c-9969-5b2d57b670e0.htm" />
+    <HelpKINode Title="about IChildContextualCreator&lt;TScope, TChild&gt; interface" Url="html/60690954-6242-3c7c-9969-5b2d57b670e0.htm" />
+    <HelpKINode Title="methods" Url="html/bbc413e7-df8a-f322-7f6a-50e7ad870db3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IChildContextualCreator&lt;TScope, TChild&gt;.CreateChild method" Url="html/037b691f-5473-4d22-d70a-a3cf24982604.htm" />
+  <HelpKINode Title="IChildContextualCreator&lt;TScope, TChild&gt;.CreateChildWithin method" Url="html/b13b138a-d288-a2fc-5fa0-d7ce342d8747.htm" />
+  <HelpKINode Title="IChildContextualFactory(Of TScope, TParent, TChildContextual) interface">
+    <HelpKINode Title="IChildContextualFactory(TScope, TParent, TChildContextual) Interface" Url="html/bcbfbc05-ca2e-f424-27dd-8c763132a858.htm" />
+    <HelpKINode Title="about IChildContextualFactory(Of TScope, TParent, TChildContextual) interface" Url="html/bcbfbc05-ca2e-f424-27dd-8c763132a858.htm" />
+    <HelpKINode Title="methods" Url="html/a5c375f5-aeaa-c45f-7320-718972a5b2dc.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IChildContextualFactory(Of TScope, TParent, TChildContextual).Create method" Url="html/3688d3e3-a7fc-0edc-e04c-969a10b3bb60.htm" />
+  <HelpKINode Title="IChildContextualFactory&lt;TScope, TParent, TChildContextual&gt; interface">
+    <HelpKINode Title="IChildContextualFactory(TScope, TParent, TChildContextual) Interface" Url="html/bcbfbc05-ca2e-f424-27dd-8c763132a858.htm" />
+    <HelpKINode Title="about IChildContextualFactory&lt;TScope, TParent, TChildContextual&gt; interface" Url="html/bcbfbc05-ca2e-f424-27dd-8c763132a858.htm" />
+    <HelpKINode Title="methods" Url="html/a5c375f5-aeaa-c45f-7320-718972a5b2dc.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IChildContextualFactory&lt;TScope, TParent, TChildContextual&gt;.Create method" Url="html/3688d3e3-a7fc-0edc-e04c-969a10b3bb60.htm" />
+  <HelpKINode Title="IFuture(Of T) interface">
+    <HelpKINode Title="IFuture(T) Interface" Url="html/ea6cc2fd-a5e1-377c-d7e9-f0292aa60271.htm" />
+    <HelpKINode Title="about IFuture(Of T) interface" Url="html/ea6cc2fd-a5e1-377c-d7e9-f0292aa60271.htm" />
+    <HelpKINode Title="methods" Url="html/effbfc51-bbcf-0e61-a3e5-b84591bad2e9.htm" />
+    <HelpKINode Title="properties" Url="html/4a4df5ae-b28a-4bc3-9e5d-d09bdc8e6630.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IFuture(Of T).GetAwaiter method" Url="html/64a64e02-1192-1afd-96d4-2109d56d7d61.htm" />
+  <HelpKINode Title="IFuture(Of T).Value property" Url="html/f3bdf082-61e9-6b69-c84a-28a7a7b5f5d0.htm" />
+  <HelpKINode Title="IFuture&lt;T&gt; interface">
+    <HelpKINode Title="IFuture(T) Interface" Url="html/ea6cc2fd-a5e1-377c-d7e9-f0292aa60271.htm" />
+    <HelpKINode Title="about IFuture&lt;T&gt; interface" Url="html/ea6cc2fd-a5e1-377c-d7e9-f0292aa60271.htm" />
+    <HelpKINode Title="methods" Url="html/effbfc51-bbcf-0e61-a3e5-b84591bad2e9.htm" />
+    <HelpKINode Title="properties" Url="html/4a4df5ae-b28a-4bc3-9e5d-d09bdc8e6630.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IFuture&lt;T&gt;.GetAwaiter method" Url="html/64a64e02-1192-1afd-96d4-2109d56d7d61.htm" />
+  <HelpKINode Title="IFuture&lt;T&gt;.Value property" Url="html/f3bdf082-61e9-6b69-c84a-28a7a7b5f5d0.htm" />
+  <HelpKINode Title="IInfiniteIntervalScope(Of TSubScope) interface">
+    <HelpKINode Title="IInfiniteIntervalScope(TSubScope) Interface" Url="html/4dd8b097-3133-e7f6-23ad-4fb00801ce72.htm" />
+    <HelpKINode Title="about IInfiniteIntervalScope(Of TSubScope) interface" Url="html/4dd8b097-3133-e7f6-23ad-4fb00801ce72.htm" />
+    <HelpKINode Title="properties" Url="html/01e7ea3a-cd78-e3c4-d23d-7287e84ecf0c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IInfiniteIntervalScope(Of TSubScope).LowerBound property" Url="html/716e7b4d-084c-88dd-a3f6-d50789405927.htm" />
+  <HelpKINode Title="IInfiniteIntervalScope(Of TSubScope).ProperUpperBound property" Url="html/de2c3e22-15ee-aee3-c024-64d1b8454a71.htm" />
+  <HelpKINode Title="IInfiniteIntervalScope(Of TSubScope).SubScope property" Url="html/f2fe8905-c9ae-b462-d22a-c2c4cf062527.htm" />
+  <HelpKINode Title="IInfiniteIntervalScope&lt;TSubScope&gt; interface">
+    <HelpKINode Title="IInfiniteIntervalScope(TSubScope) Interface" Url="html/4dd8b097-3133-e7f6-23ad-4fb00801ce72.htm" />
+    <HelpKINode Title="about IInfiniteIntervalScope&lt;TSubScope&gt; interface" Url="html/4dd8b097-3133-e7f6-23ad-4fb00801ce72.htm" />
+    <HelpKINode Title="properties" Url="html/01e7ea3a-cd78-e3c4-d23d-7287e84ecf0c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IInfiniteIntervalScope&lt;TSubScope&gt;.LowerBound property" Url="html/716e7b4d-084c-88dd-a3f6-d50789405927.htm" />
+  <HelpKINode Title="IInfiniteIntervalScope&lt;TSubScope&gt;.ProperUpperBound property" Url="html/de2c3e22-15ee-aee3-c024-64d1b8454a71.htm" />
+  <HelpKINode Title="IInfiniteIntervalScope&lt;TSubScope&gt;.SubScope property" Url="html/f2fe8905-c9ae-b462-d22a-c2c4cf062527.htm" />
+  <HelpKINode Title="InChild method" Url="html/4d92a3f6-9a39-9a4a-dd5d-be23b7e0fa24.htm" />
+  <HelpKINode Title="InChildWithin method" Url="html/bcac3e9a-b0e2-65f6-c79d-662add832a15.htm" />
+  <HelpKINode Title="InfiniteIntervalScope class">
+    <HelpKINode Title="InfiniteIntervalScope Class" Url="html/b3e0d961-5e52-754d-fc1f-cf71d5170374.htm" />
+    <HelpKINode Title="about InfiniteIntervalScope class" Url="html/b3e0d961-5e52-754d-fc1f-cf71d5170374.htm" />
+    <HelpKINode Title="methods" Url="html/91904ab1-4dbb-bb03-8bd6-0d4bcc0f0361.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InfiniteIntervalScope.Create(Of TSubScope) method" Url="html/f8277138-d497-3398-32f8-e5fb34457220.htm" />
+  <HelpKINode Title="InfiniteIntervalScope.Create&lt;TSubScope&gt; method" Url="html/f8277138-d497-3398-32f8-e5fb34457220.htm" />
+  <HelpKINode Title="InfiniteIntervalScopeLogic class">
+    <HelpKINode Title="InfiniteIntervalScopeLogic Class" Url="html/6f9299a5-955b-a77f-cfff-8f775cacacaa.htm" />
+    <HelpKINode Title="about InfiniteIntervalScopeLogic class" Url="html/6f9299a5-955b-a77f-cfff-8f775cacacaa.htm" />
+    <HelpKINode Title="methods" Url="html/3b66f590-14ed-1d9e-820b-c1c5488aa0f6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InfiniteIntervalScopeLogic.Create(Of TSubScope) method" Url="html/e8679b95-8ff5-9b84-9373-6decee5d30ec.htm" />
+  <HelpKINode Title="InfiniteIntervalScopeLogic.Create&lt;TSubScope&gt; method" Url="html/e8679b95-8ff5-9b84-9373-6decee5d30ec.htm" />
+  <HelpKINode Title="Influences method" Url="html/0e1b3491-7d8c-a46b-29e0-8c61be7ddfd0.htm" />
+  <HelpKINode Title="Instance field" Url="html/c5e048b1-17b3-9f26-6c4d-1241b5fed8f2.htm" />
+  <HelpKINode Title="Intersect method" Url="html/c034725b-f10c-02a8-2104-1489dff24f85.htm" />
+  <HelpKINode Title="IntersectRequiredScopeWith method" Url="html/48d1188e-bbe3-3987-3692-42d82b4a916c.htm" />
+  <HelpKINode Title="IReactive(Of T) interface">
+    <HelpKINode Title="IReactive(T) Interface" Url="html/ac6217af-4ed3-4741-53a6-381f6fcc7038.htm" />
+    <HelpKINode Title="about IReactive(Of T) interface" Url="html/ac6217af-4ed3-4741-53a6-381f6fcc7038.htm" />
+    <HelpKINode Title="properties" Url="html/0eeb95c0-18e6-fd1c-c95b-0aaab9652148.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IReactive(Of T).ProcessTask property" Url="html/bf2599ec-0dc5-7144-d815-67f48fdc3874.htm" />
+  <HelpKINode Title="IReactive(Of T).Result property" Url="html/83668018-c585-fd24-2037-35283d062514.htm" />
+  <HelpKINode Title="IReactive&lt;T&gt; interface">
+    <HelpKINode Title="IReactive(T) Interface" Url="html/ac6217af-4ed3-4741-53a6-381f6fcc7038.htm" />
+    <HelpKINode Title="about IReactive&lt;T&gt; interface" Url="html/ac6217af-4ed3-4741-53a6-381f6fcc7038.htm" />
+    <HelpKINode Title="properties" Url="html/0eeb95c0-18e6-fd1c-c95b-0aaab9652148.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IReactive&lt;T&gt;.ProcessTask property" Url="html/bf2599ec-0dc5-7144-d815-67f48fdc3874.htm" />
+  <HelpKINode Title="IReactive&lt;T&gt;.Result property" Url="html/83668018-c585-fd24-2037-35283d062514.htm" />
+  <HelpKINode Title="IResolver(Of T) interface">
+    <HelpKINode Title="IResolver(T) Interface" Url="html/f8b8d339-9644-5667-ff26-0cdedf77e6a6.htm" />
+    <HelpKINode Title="about IResolver(Of T) interface" Url="html/f8b8d339-9644-5667-ff26-0cdedf77e6a6.htm" />
+    <HelpKINode Title="methods" Url="html/a9f206c7-bb1f-11e7-2f8d-2a6091f5676c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IResolver(Of T).Resolve method" Url="html/6fdfb7b4-4f3f-3cfe-b687-909cf9b2432e.htm" />
+  <HelpKINode Title="IResolver&lt;T&gt; interface">
+    <HelpKINode Title="IResolver(T) Interface" Url="html/f8b8d339-9644-5667-ff26-0cdedf77e6a6.htm" />
+    <HelpKINode Title="about IResolver&lt;T&gt; interface" Url="html/f8b8d339-9644-5667-ff26-0cdedf77e6a6.htm" />
+    <HelpKINode Title="methods" Url="html/a9f206c7-bb1f-11e7-2f8d-2a6091f5676c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IResolver&lt;T&gt;.Resolve method" Url="html/6fdfb7b4-4f3f-3cfe-b687-909cf9b2432e.htm" />
+  <HelpKINode Title="IsActive property" Url="html/f5015fb3-b553-58ec-f38d-45c50c67845f.htm" />
+  <HelpKINode Title="IsCompleted property" Url="html/4637a298-2a5a-78b8-8c41-60d547ebe2b6.htm" />
+  <HelpKINode Title="ITaskCollector interface">
+    <HelpKINode Title="ITaskCollector Interface" Url="html/b4db24f5-ee05-c391-8d05-a6a726a7fb81.htm" />
+    <HelpKINode Title="about ITaskCollector interface" Url="html/b4db24f5-ee05-c391-8d05-a6a726a7fb81.htm" />
+    <HelpKINode Title="methods" Url="html/b309823b-8258-48c8-04bf-af9e5c7bb2da.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ITaskCollector.Add method" Url="html/b438846b-f71a-b6e9-06a7-a60da8eec6d9.htm" />
+  <HelpKINode Title="ITaskCollector.Adding(Of T) method" Url="html/5f5190d3-4b17-ec3f-b075-73652680d296.htm" />
+  <HelpKINode Title="ITaskCollector.Adding&lt;T&gt; method" Url="html/5f5190d3-4b17-ec3f-b075-73652680d296.htm" />
+  <HelpKINode Title="ITaskCollector.WhenAll method" Url="html/f1cfe211-f01d-d2dc-fc16-31bd1e7056d3.htm" />
+  <HelpKINode Title="ITupleScope(Of T0, T1) interface">
+    <HelpKINode Title="ITupleScope(T0, T1) Interface" Url="html/1ea006f1-54b7-f1b2-552f-bfcceb0f2441.htm" />
+    <HelpKINode Title="about ITupleScope(Of T0, T1) interface" Url="html/1ea006f1-54b7-f1b2-552f-bfcceb0f2441.htm" />
+    <HelpKINode Title="properties" Url="html/1379ae76-bb9f-6b78-7556-cbad2685adc2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ITupleScope(Of T0, T1).Part0 property" Url="html/eab94d4f-7fa4-0eb0-b2eb-f6d697b01ccf.htm" />
+  <HelpKINode Title="ITupleScope(Of T0, T1).Part1 property" Url="html/be0f7c0f-c259-9910-e395-907624329089.htm" />
+  <HelpKINode Title="ITupleScope&lt;T0, T1&gt; interface">
+    <HelpKINode Title="ITupleScope(T0, T1) Interface" Url="html/1ea006f1-54b7-f1b2-552f-bfcceb0f2441.htm" />
+    <HelpKINode Title="about ITupleScope&lt;T0, T1&gt; interface" Url="html/1ea006f1-54b7-f1b2-552f-bfcceb0f2441.htm" />
+    <HelpKINode Title="properties" Url="html/1379ae76-bb9f-6b78-7556-cbad2685adc2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ITupleScope&lt;T0, T1&gt;.Part0 property" Url="html/eab94d4f-7fa4-0eb0-b2eb-f6d697b01ccf.htm" />
+  <HelpKINode Title="ITupleScope&lt;T0, T1&gt;.Part1 property" Url="html/be0f7c0f-c259-9910-e395-907624329089.htm" />
+  <HelpKINode Title="ITupleScopeLogic(Of T0, T1) interface">
+    <HelpKINode Title="ITupleScopeLogic(T0, T1) Interface" Url="html/5f305ded-5e79-86b1-782b-88bf09600c39.htm" />
+    <HelpKINode Title="about ITupleScopeLogic(Of T0, T1) interface" Url="html/5f305ded-5e79-86b1-782b-88bf09600c39.htm" />
+    <HelpKINode Title="methods" Url="html/9a220370-94a9-4b65-3405-f3754d2124c8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ITupleScopeLogic&lt;T0, T1&gt; interface">
+    <HelpKINode Title="ITupleScopeLogic(T0, T1) Interface" Url="html/5f305ded-5e79-86b1-782b-88bf09600c39.htm" />
+    <HelpKINode Title="about ITupleScopeLogic&lt;T0, T1&gt; interface" Url="html/5f305ded-5e79-86b1-782b-88bf09600c39.htm" />
+    <HelpKINode Title="methods" Url="html/9a220370-94a9-4b65-3405-f3754d2124c8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LambdaSubContextualFactory class">
+    <HelpKINode Title="LambdaSubContextualFactory Class" Url="html/d8d593ea-f0c4-2292-8f80-7b567db8bfaf.htm" />
+    <HelpKINode Title="about LambdaSubContextualFactory class" Url="html/d8d593ea-f0c4-2292-8f80-7b567db8bfaf.htm" />
+    <HelpKINode Title="methods" Url="html/db29bb77-9cd8-c485-24ab-1d568ddac06e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LambdaSubContextualFactory.Create(Of TScope, TParent, TChildContextual) method" Url="html/4bc387a1-36e0-e878-82bc-69952512f5bd.htm" />
+  <HelpKINode Title="LambdaSubContextualFactory.Create&lt;TScope, TParent, TChildContextual&gt; method" Url="html/4bc387a1-36e0-e878-82bc-69952512f5bd.htm" />
+  <HelpKINode Title="LowerBound property" Url="html/716e7b4d-084c-88dd-a3f6-d50789405927.htm" />
+  <HelpKINode Title="MaximumScope field" Url="html/ed9e6b3d-7f5d-bac0-561f-cb09ee18c6ff.htm" />
+  <HelpKINode Title="None enumeration member" Url="html/854ba803-fa81-2740-64dc-963ab41aa8d8.htm" />
+  <HelpKINode Title="Part0 property" Url="html/eab94d4f-7fa4-0eb0-b2eb-f6d697b01ccf.htm" />
+  <HelpKINode Title="Part1 property" Url="html/be0f7c0f-c259-9910-e395-907624329089.htm" />
+  <HelpKINode Title="ProcessTask property" Url="html/bf2599ec-0dc5-7144-d815-67f48fdc3874.htm" />
+  <HelpKINode Title="ProperUpperBound property" Url="html/de2c3e22-15ee-aee3-c024-64d1b8454a71.htm" />
+  <HelpKINode Title="Reactive class">
+    <HelpKINode Title="Reactive Class" Url="html/dfeb7424-6354-f038-82ef-48cc3cbbedeb.htm" />
+    <HelpKINode Title="about Reactive class" Url="html/dfeb7424-6354-f038-82ef-48cc3cbbedeb.htm" />
+    <HelpKINode Title="methods" Url="html/b0130814-38db-d8ef-61be-162cbe28070d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Reactive.Create(Of T) method" Url="html/e0916126-389a-4727-6198-4d1fc11d3f74.htm" />
+  <HelpKINode Title="Reactive.Create&lt;T&gt; method" Url="html/e0916126-389a-4727-6198-4d1fc11d3f74.htm" />
+  <HelpKINode Title="Reactive.From(Of T) method" Url="html/b243ae15-b7e8-6328-b764-9bb9d9e644aa.htm" />
+  <HelpKINode Title="Reactive.From&lt;T&gt; method" Url="html/b243ae15-b7e8-6328-b764-9bb9d9e644aa.htm" />
+  <HelpKINode Title="Read enumeration member" Url="html/854ba803-fa81-2740-64dc-963ab41aa8d8.htm" />
+  <HelpKINode Title="ReadWrite enumeration member" Url="html/854ba803-fa81-2740-64dc-963ab41aa8d8.htm" />
+  <HelpKINode Title="RequiredScope property" Url="html/e91d8db6-4712-a475-df06-f1109388e852.htm" />
+  <HelpKINode Title="Resolve method" Url="html/6fdfb7b4-4f3f-3cfe-b687-909cf9b2432e.htm" />
+  <HelpKINode Title="Resolver class">
+    <HelpKINode Title="Resolver Class" Url="html/e2daefc0-551d-5baf-620f-22169a7e25a0.htm" />
+    <HelpKINode Title="about Resolver class" Url="html/e2daefc0-551d-5baf-620f-22169a7e25a0.htm" />
+    <HelpKINode Title="methods" Url="html/25e679ff-b4ed-ff37-0038-d299af9811fb.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Resolver.Create(Of T) method" Url="html/8bb94a6b-8d0a-f04d-cddb-56f13facbc3e.htm" />
+  <HelpKINode Title="Resolver.Create&lt;T&gt; method" Url="html/8bb94a6b-8d0a-f04d-cddb-56f13facbc3e.htm" />
+  <HelpKINode Title="Resolver.CreateWithFuture(Of T) method" Url="html/a4ef2f24-8c89-9001-d6e1-dcaed0a54982.htm" />
+  <HelpKINode Title="Resolver.CreateWithFuture&lt;T&gt; method" Url="html/a4ef2f24-8c89-9001-d6e1-dcaed0a54982.htm" />
+  <HelpKINode Title="Resolver.CreateWithTcs(Of T) method" Url="html/6a005ecc-671b-bdd8-bfcb-c3eceb31448f.htm" />
+  <HelpKINode Title="Resolver.CreateWithTcs&lt;T&gt; method" Url="html/6a005ecc-671b-bdd8-bfcb-c3eceb31448f.htm" />
+  <HelpKINode Title="Result property" Url="html/83668018-c585-fd24-2037-35283d062514.htm" />
+  <HelpKINode Title="RWScope enumeration" Url="html/854ba803-fa81-2740-64dc-963ab41aa8d8.htm" />
+  <HelpKINode Title="RWScopeLogic class">
+    <HelpKINode Title="RWScopeLogic Class" Url="html/8eb8738e-ae5b-5b9b-e455-b4b83a707faa.htm" />
+    <HelpKINode Title="about RWScopeLogic class" Url="html/8eb8738e-ae5b-5b9b-e455-b4b83a707faa.htm" />
+    <HelpKINode Title="fields" Url="html/318b413c-52a2-943d-4be5-08187e1e1c7c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RWScopeLogic.Instance field" Url="html/c5e048b1-17b3-9f26-6c4d-1241b5fed8f2.htm" />
+  <HelpKINode Title="RWScopeLogic.MaximumScope field" Url="html/ed9e6b3d-7f5d-bac0-561f-cb09ee18c6ff.htm" />
+  <HelpKINode Title="SubScope property" Url="html/f2fe8905-c9ae-b462-d22a-c2c4cf062527.htm" />
+  <HelpKINode Title="TaskCollector class">
+    <HelpKINode Title="TaskCollector Class" Url="html/1742f567-1735-7569-77b8-89d1759a3dcd.htm" />
+    <HelpKINode Title="about TaskCollector class" Url="html/1742f567-1735-7569-77b8-89d1759a3dcd.htm" />
+    <HelpKINode Title="methods" Url="html/3b036a13-1aa1-2dca-5f3e-aae57bc72e52.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TaskCollector.Create method" Url="html/dca5c9f3-0274-8b5b-76be-4989872769d0.htm" />
+  <HelpKINode Title="TaskCollector.With method" Url="html/ef00b4b4-91bf-dc94-3b52-c3dad27bc434.htm" />
+  <HelpKINode Title="TaskFuture class">
+    <HelpKINode Title="TaskFuture Class" Url="html/4d01a74e-34d0-dbda-3d7b-aa86fd8e7f53.htm" />
+    <HelpKINode Title="about TaskFuture class" Url="html/4d01a74e-34d0-dbda-3d7b-aa86fd8e7f53.htm" />
+    <HelpKINode Title="methods" Url="html/55aa018c-222a-5c05-9688-fb15b617a118.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TaskFuture.Create method" Url="html/d6905ee7-9d5a-cb93-ead1-05572ca44328.htm" />
+  <HelpKINode Title="TaskFuture.ToFuture(Of T) method" Url="html/a2d7209f-bfd8-15b4-a244-c1d0b2cda6b1.htm" />
+  <HelpKINode Title="TaskFuture.ToFuture&lt;T&gt; method" Url="html/a2d7209f-bfd8-15b4-a244-c1d0b2cda6b1.htm" />
+  <HelpKINode Title="ThisAsTParent method">
+    <HelpKINode Title="AccessContextual(TScope, TParent, TChildContextual).ThisAsTParent Method " Url="html/6ef731f9-6532-ff5e-765a-6010b9a0658a.htm" />
+    <HelpKINode Title="IAccessContextual(TScope, TThis, TChildContextual).ThisAsTParent Method " Url="html/9e5d2df2-5748-7c49-35cb-519c3b5ddcae.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ToFuture(Of T) method">
+    <HelpKINode Title="ConstantFuture.ToFuture(T) Method " Url="html/75da2860-b9ab-6ee0-2d8a-a9f65f4b627f.htm" />
+    <HelpKINode Title="TaskFuture.ToFuture(T) Method " Url="html/a2d7209f-bfd8-15b4-a244-c1d0b2cda6b1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ToFuture&lt;T&gt; method">
+    <HelpKINode Title="ConstantFuture.ToFuture(T) Method " Url="html/75da2860-b9ab-6ee0-2d8a-a9f65f4b627f.htm" />
+    <HelpKINode Title="TaskFuture.ToFuture(T) Method " Url="html/a2d7209f-bfd8-15b4-a244-c1d0b2cda6b1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TupleScope class">
+    <HelpKINode Title="TupleScope Class" Url="html/8cf639f4-7976-4d8a-32a7-0a92399b5800.htm" />
+    <HelpKINode Title="about TupleScope class" Url="html/8cf639f4-7976-4d8a-32a7-0a92399b5800.htm" />
+    <HelpKINode Title="methods" Url="html/1f8db553-8ff2-fb42-faee-70e5cd46f85b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TupleScope.Create(Of T0, T1) method" Url="html/ad3d86f9-7bf1-ff80-c2f4-f61a37a277ff.htm" />
+  <HelpKINode Title="TupleScope.Create&lt;T0, T1&gt; method" Url="html/ad3d86f9-7bf1-ff80-c2f4-f61a37a277ff.htm" />
+  <HelpKINode Title="TupleScopeLogic class">
+    <HelpKINode Title="TupleScopeLogic Class" Url="html/d51d7f19-091b-ee75-108d-00840e77177a.htm" />
+    <HelpKINode Title="about TupleScopeLogic class" Url="html/d51d7f19-091b-ee75-108d-00840e77177a.htm" />
+    <HelpKINode Title="methods" Url="html/e3c80bd1-ebb5-5706-c48f-c8bf92292673.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TupleScopeLogic.Create(Of T0, T1) method" Url="html/38edbb9f-0065-e0b8-e3b5-fcb8bfb428f3.htm" />
+  <HelpKINode Title="TupleScopeLogic.Create&lt;T0, T1&gt; method" Url="html/38edbb9f-0065-e0b8-e3b5-fcb8bfb428f3.htm" />
+  <HelpKINode Title="UntilAvailable method" Url="html/17e2ee78-7b81-1cac-6bc5-e02498ac95fd.htm" />
+  <HelpKINode Title="Value property" Url="html/f3bdf082-61e9-6b69-c84a-28a7a7b5f5d0.htm" />
+  <HelpKINode Title="WhenAll method" Url="html/f1cfe211-f01d-d2dc-fc16-31bd1e7056d3.htm" />
+  <HelpKINode Title="With method" Url="html/ef00b4b4-91bf-dc94-3b52-c3dad27bc434.htm" />
+</HelpKI>
